@@ -46,7 +46,10 @@
 					]
 				}
 			},
-			"response": []
+			"response": [{
+    "code": 200,
+    "type": "unknown",
+    "message": "logged in user session:1660323014727"]
 		},
 		{
 			"name": "user",
@@ -73,7 +76,16 @@
 					]
 				}
 			},
-			"response": []
+			"response": [{
+  "id": 1001,
+  "username": "Carlos Bonfatti",
+  "firstName": "Carlos",
+  "lastName": "Bonfatti",
+  "email": "Carlos@yahoo.com",
+  "password": "pwd123",
+  "phone": "1140028922",
+  "userStatus": 0
+}]
 		}
 	]
 }
