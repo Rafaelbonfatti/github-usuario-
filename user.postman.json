@@ -45,13 +45,10 @@
 						}
 					]
 				}
-			},
-			"response": [{
-    "code": 200,
-    "type": "unknown",
-    "message": "logged in user session:1660323014727"]
-		},
-		{
+			
+			"response": []
+  
+		
 			"name": "user",
 			"request": {
 				"method": "POST",
@@ -73,19 +70,15 @@
 					"path": [
 						"v2",
 						"user"
-					]
+									]
 				}
 			},
-			"response": [{
-  "id": 1001,
-  "username": "Carlos Bonfatti",
-  "firstName": "Carlos",
-  "lastName": "Bonfatti",
-  "email": "Carlos@yahoo.com",
-  "password": "pwd123",
-  "phone": "1140028922",
-  "userStatus": 0
-}]
-		}
-	]
-}
+
+				
+			
+			"response": []
+ 
+
+		
+	
+
